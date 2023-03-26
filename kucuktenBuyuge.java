@@ -1,5 +1,5 @@
-package algobirbüt;
-public class Algobirbüt{
+package kucuktenBuyuge;
+public class kucuktenBuyuge{
 public static void main(String[] args) {
 
 int[]sayilar={5,3,99};
